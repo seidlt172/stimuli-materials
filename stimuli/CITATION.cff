@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these stimulus materials, please cite this repository."
+title: "Stimulus Materials"
+type: dataset
+authors:
+  - family-names: "Anonymous"
+    given-names: "Author"
+repository-code: "https://github.com/USERNAME/REPOSITORY"
+license: "CC-BY-4.0"
+abstract: "This repository contains the final participant-facing video stimuli used in the associated study submission, including online-survey and on-site-simulator materials."
+keywords:
+  - stimulus materials
+  - xai
+  - explainable ai
+  - driving simulation
+  - online survey
+  - simulator study
+  - multimodal explanation
+version: "1.0"
+date-released: 2026-03-27
